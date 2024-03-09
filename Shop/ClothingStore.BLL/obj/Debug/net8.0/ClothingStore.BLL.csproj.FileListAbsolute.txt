@@ -1,0 +1,15 @@
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\bin\Debug\net8.0\ClothingStore.BLL.deps.json
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\bin\Debug\net8.0\ClothingStore.BLL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\bin\Debug\net8.0\ClothingStore.BLL.pdb
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\bin\Debug\net8.0\ClothingStore.DAL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\bin\Debug\net8.0\ClothingStore.DAL.pdb
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\refint\ClothingStore.BLL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ClothingStore.BLL.pdb
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\ref\ClothingStore.BLL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.BLL\obj\Debug\net8.0\Clothing.73BD6430.Up2Date

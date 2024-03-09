@@ -1,0 +1,12 @@
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\bin\Debug\net8.0\ClothingStore.DAL.deps.json
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\bin\Debug\net8.0\ClothingStore.DAL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\bin\Debug\net8.0\ClothingStore.DAL.pdb
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\refint\ClothingStore.DAL.dll
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ClothingStore.DAL.pdb
+C:\Users\Windows 10\source\repos\Shop\ClothingStore.DAL\obj\Debug\net8.0\ref\ClothingStore.DAL.dll
