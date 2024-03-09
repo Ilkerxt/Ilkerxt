@@ -1,0 +1,10 @@
+C:\Users\Windows 10\source\repos\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\Windows 10\source\repos\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\Windows 10\source\repos\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.eContact.resources
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\Windows 10\source\repos\Contact\Contact\obj\Debug\Contact.pdb
